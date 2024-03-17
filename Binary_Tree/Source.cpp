@@ -1,6 +1,4 @@
 ﻿#include "iostream"
-#include "windows.h"
-#include "fstream"
 using namespace std;
 
 struct node {
